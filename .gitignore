@@ -1,0 +1,2 @@
+#ignore targets from rust
+**/target/*
